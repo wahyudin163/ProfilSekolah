@@ -10,4 +10,8 @@ Salam koding
 
 ![gambar1](https://user-images.githubusercontent.com/77037339/106592774-7e0f0700-6582-11eb-9fd2-e54798e48d7b.png)
 
-2. 
+2. Copy kode programnya
+
+![gambar2](https://user-images.githubusercontent.com/77037339/106593240-23c27600-6583-11eb-97d6-7d31f9c96fe8.png)
+
+3. 
