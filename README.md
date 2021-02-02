@@ -14,4 +14,7 @@ Salam koding
 
 ![gambar2](https://user-images.githubusercontent.com/77037339/106593240-23c27600-6583-11eb-97d6-7d31f9c96fe8.png)
 
-3. 
+3. Klik menu Git kemudin pilih dan klik Clone
+
+![gambar3](https://user-images.githubusercontent.com/77037339/106596178-39d23580-6587-11eb-975b-be006c62fbea.png)
+
