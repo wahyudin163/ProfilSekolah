@@ -18,3 +18,9 @@ Salam koding
 
 ![gambar3](https://user-images.githubusercontent.com/77037339/106596178-39d23580-6587-11eb-975b-be006c62fbea.png)
 
+4. Tunggu sebentar nanti akan muncul kotak dialog dibawah
+
+![gambar4](https://user-images.githubusercontent.com/77037339/106596645-e7dddf80-6587-11eb-8eda-2d0b067a68d1.png)
+
+5. Pilih Repository URL kemudian pastekan kodenya kedalam URL
+6. Selesai
