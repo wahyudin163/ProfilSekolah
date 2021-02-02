@@ -23,4 +23,5 @@ Salam koding
 ![gambar4](https://user-images.githubusercontent.com/77037339/106596645-e7dddf80-6587-11eb-8eda-2d0b067a68d1.png)
 
 5. Pilih Repository URL kemudian pastekan kodenya kedalam URL
+6. Pilih direktori penyimpanan kalian (Optional)
 6. Selesai
